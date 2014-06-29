@@ -1,4 +1,4 @@
-How to add RedBeanPHP to Composer manually
+How to add RedBeanPHP to Composer
 =======
 
 Just a small composer.json file that manually adds RedBeanPHP.php to any composer.json project.
