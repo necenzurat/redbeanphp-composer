@@ -1,0 +1,27 @@
+{
+    "repositories": [
+     	{
+            "type": "package",
+            "package": {
+                "name": "redbeanphp",
+                "version": "4.0.4",
+                "dist": {
+                    "url": "http://www.redbeanphp.com/downloadredbean.php",
+                    "type": "tar"
+                }
+            }
+        }
+
+    ],
+    
+    "require": {
+        "redbeanphp": "4.0.*"
+    },
+	
+	"autoload": {
+	    "files": [
+            "vendor/redbeanphp/rb.php"
+	    ]
+	},
+	"minimum-stability": "dev"
+}
