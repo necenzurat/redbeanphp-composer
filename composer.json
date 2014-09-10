@@ -4,7 +4,7 @@
             "type": "package",
             "package": {
                 "name": "redbeanphp",
-                "version": "4.0.4",
+                "version": "4.0.9",
                 "dist": {
                     "url": "http://www.redbeanphp.com/downloadredbean.php",
                     "type": "tar"
