@@ -4,7 +4,7 @@
             "type": "package",
             "package": {
                 "name": "redbeanphp",
-                "version": "4.0.9",
+                "version": "master",
                 "dist": {
                     "url": "http://www.redbeanphp.com/downloadredbean.php",
                     "type": "tar"
@@ -15,7 +15,7 @@
     ],
     
     "require": {
-        "redbeanphp": "4.0.*"
+        "redbeanphp": "master"
     },
 	
 	"autoload": {
