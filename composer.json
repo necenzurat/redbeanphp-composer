@@ -4,10 +4,10 @@
             "type": "package",
             "package": {
                 "name": "redbeanphp",
-                "version": "master",
+                "version": "4.1",
                 "dist": {
-                    "url": "http://www.redbeanphp.com/downloadredbean.php",
-                    "type": "tar"
+                    "url": "https://github.com/gabordemooij/redbean/archive/master.zip",
+                    "type": "zip"
                 }
             }
         }
@@ -15,13 +15,12 @@
     ],
     
     "require": {
-        "redbeanphp": "master"
+        "redbeanphp": "4.*"
     },
 	
 	"autoload": {
 	    "files": [
             "vendor/redbeanphp/rb.php"
 	    ]
-	},
-	"minimum-stability": "dev"
+	}
 }
