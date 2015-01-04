@@ -22,5 +22,9 @@
 	    "files": [
             "vendor/redbeanphp/rb.php"
 	    ]
-	}
+	},
+    "scripts": {
+        "post-install-cmd": "cd vendor/redbeanphp && php replica2.php",
+        "post-update-cmd": "cd vendor/redbeanphp && php replica2.php"
+    }
 }
