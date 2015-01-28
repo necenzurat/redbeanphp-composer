@@ -15,7 +15,7 @@
     ],
     
     "require": {
-        "redbeanphp": "master"
+        "redbeanphp": "master@dev"
     },
 	
 	"autoload": {
@@ -23,6 +23,4 @@
             "vendor/redbeanphp/rb.php"
 	    ]
 	},
-	"minimum-stability": "dev",
-	"prefer-stable": true
 }
