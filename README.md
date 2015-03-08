@@ -9,6 +9,12 @@ RedBeanPHP is awesome but does not support Composer ([see here](http://redbeanph
 
 It's a workaround, that i use, so be carefull
 
+
+#### Users
+
+[AndrewNatoli/PHP-RapidREST](https://github.com/AndrewNatoli/PHP-RapidREST)
+
+
 #### License
 
 ````
