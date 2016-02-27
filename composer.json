@@ -11,6 +11,10 @@
 	}
 }
 	],
+    
+    "config": {
+      "secure-http": "false" 
+    },
 
 	"require": {
 			"redbeanphp": "master@dev"
